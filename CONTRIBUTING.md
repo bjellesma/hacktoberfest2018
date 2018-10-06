@@ -10,7 +10,7 @@
 ![capture](https://user-images.githubusercontent.com/29935993/44449918-1c09f380-a60d-11e8-95aa-461c97ef4565.PNG)
 
 
-## Clone
+## Clone 
 
 ![clone](https://user-images.githubusercontent.com/29935993/44450483-b3237b00-a60e-11e8-85c4-eb7d81c3c0da.png)
 
